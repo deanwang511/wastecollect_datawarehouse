@@ -1,0 +1,25 @@
+MyDimZone
+- Zone_ID
+- Zone_Name
+- City
+
+
+MyDimDate:
+- dateid
+- date	
+- Year	
+- Quarter	
+- QuarterName	
+- Month	
+- Monthname	
+- Day	
+- Weekday	
+- WeekdayName
+
+
+
+MyFactTrips:
+- Trip_ID
+- Zone_ID
+- Waste_ID
+- Date_ID
